@@ -1,0 +1,2001 @@
+number,priority,short_description,category,state
+INC100001,2 - High,Password reset,Inquiry / Help,Resolved
+INC100002,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100003,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100004,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100005,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100006,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100007,2 - High,Password reset,Inquiry / Help,Resolved
+INC100008,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100009,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100010,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100011,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100012,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100013,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC100014,2 - High,Password reset,Inquiry / Help,Resolved
+INC100015,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100016,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100017,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100018,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC100019,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC100020,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100021,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100022,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100023,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100024,2 - High,Password reset,Inquiry / Help,Resolved
+INC100025,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100026,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100027,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100028,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100029,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100030,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100031,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC100032,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100033,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC100034,4 - Low,Monitor not displaying,Inquiry / Help,Resolved
+INC100035,2 - High,Other issue 31,Inquiry / Help,Resolved
+INC100036,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100037,2 - High,New user setup,Inquiry / Help,Resolved
+INC100038,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100039,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100040,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100041,3 - Moderate,Other issue 52,Inquiry / Help,Resolved
+INC100042,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100043,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100044,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100045,3 - Moderate,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC100046,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100047,4 - Low,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC100048,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC100049,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100050,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100051,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100052,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100053,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100054,4 - Low,Other issue 37,Inquiry / Help,Resolved
+INC100055,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100056,4 - Low,Software install request,Inquiry / Help,Resolved
+INC100057,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100058,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100059,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100060,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100061,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC100062,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100063,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100064,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC100065,4 - Low,Other issue 7,Inquiry / Help,Resolved
+INC100066,2 - High,Other issue 42,Inquiry / Help,Resolved
+INC100067,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100068,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100069,4 - Low,Other issue 50,Inquiry / Help,Resolved
+INC100070,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100071,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100072,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100073,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100074,4 - Low,Software install request,Inquiry / Help,Resolved
+INC100075,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC100076,3 - Moderate,Shared drive access,Inquiry / Help,Resolved
+INC100077,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC100078,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100079,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100080,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100081,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100082,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100083,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100084,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100085,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100086,2 - High,Other issue 37,Inquiry / Help,Resolved
+INC100087,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC100088,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100089,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100090,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100091,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100092,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100093,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100094,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC100095,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100096,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100097,2 - High,New user setup,Inquiry / Help,Resolved
+INC100098,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100099,3 - Moderate,Label printer offline,Inquiry / Help,Resolved
+INC100100,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100101,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100102,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100103,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100104,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100105,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100106,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100107,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100108,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100109,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100110,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100111,3 - Moderate,UPS is alarming,Inquiry / Help,Resolved
+INC100112,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100113,2 - High,Other issue 13,Inquiry / Help,Resolved
+INC100114,4 - Low,Other issue 50,Inquiry / Help,Resolved
+INC100115,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100116,2 - High,Password reset,Inquiry / Help,Resolved
+INC100117,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100118,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC100119,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100120,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100121,3 - Moderate,Other issue 36,Inquiry / Help,Resolved
+INC100122,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100123,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100124,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100125,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100126,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100127,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100128,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100129,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100130,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100131,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100132,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100133,2 - High,Password reset,Inquiry / Help,Resolved
+INC100134,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100135,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100136,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100137,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100138,3 - Moderate,UPS is alarming,Inquiry / Help,Resolved
+INC100139,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100140,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100141,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100142,3 - Moderate,Record locked by another user,Inquiry / Help,Resolved
+INC100143,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100144,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100145,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100146,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100147,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100148,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100149,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100150,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100151,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100152,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100153,2 - High,New user setup,Inquiry / Help,Resolved
+INC100154,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100155,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100156,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100157,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100158,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC100159,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100160,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100161,2 - High,New user setup,Inquiry / Help,Resolved
+INC100162,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100163,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100164,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100165,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100166,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100167,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100168,2 - High,Password reset,Inquiry / Help,Resolved
+INC100169,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100170,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100171,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100172,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100173,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100174,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100175,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100176,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100177,2 - High,New user setup,Inquiry / Help,Resolved
+INC100178,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100179,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100180,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100181,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100182,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100183,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100184,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100185,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100186,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100187,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100188,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100189,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100190,2 - High,Software install request,Inquiry / Help,Resolved
+INC100191,2 - High,Other issue 21,Inquiry / Help,Resolved
+INC100192,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100193,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100194,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100195,2 - High,Password reset,Inquiry / Help,Resolved
+INC100196,2 - High,Phone not working,Inquiry / Help,Resolved
+INC100197,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100198,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100199,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100200,2 - High,Other issue 59,Inquiry / Help,Resolved
+INC100201,2 - High,Password reset,Inquiry / Help,Resolved
+INC100202,4 - Low,Monitor not displaying,Inquiry / Help,Resolved
+INC100203,2 - High,Password reset,Inquiry / Help,Resolved
+INC100204,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100205,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100206,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100207,4 - Low,Other issue 38,Inquiry / Help,Resolved
+INC100208,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100209,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100210,2 - High,Record locked by another user,Inquiry / Help,Resolved
+INC100211,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC100212,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100213,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100214,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100215,2 - High,Phone not working,Inquiry / Help,Resolved
+INC100216,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100217,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100218,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100219,2 - High,Password reset,Inquiry / Help,Resolved
+INC100220,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100221,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100222,4 - Low,Other issue 22,Inquiry / Help,Resolved
+INC100223,4 - Low,Software install request,Inquiry / Help,Resolved
+INC100224,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC100225,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100226,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100227,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100228,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100229,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100230,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100231,3 - Moderate,Keyboard not working,Inquiry / Help,Resolved
+INC100232,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100233,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100234,2 - High,Password reset,Inquiry / Help,Resolved
+INC100235,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100236,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100237,3 - Moderate,Other issue 54,Inquiry / Help,Resolved
+INC100238,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100239,3 - Moderate,Teams audio issue,Inquiry / Help,Resolved
+INC100240,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100241,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100242,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC100243,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100244,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100245,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100246,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100247,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC100248,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100249,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100250,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100251,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100252,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100253,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100254,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100255,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100256,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100257,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100258,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100259,2 - High,Password reset,Inquiry / Help,Resolved
+INC100260,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC100261,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100262,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100263,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100264,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100265,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100266,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100267,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100268,4 - Low,Record locked by another user,Inquiry / Help,Resolved
+INC100269,2 - High,New user setup,Inquiry / Help,Resolved
+INC100270,4 - Low,New user setup,Inquiry / Help,Resolved
+INC100271,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100272,2 - High,Software install request,Inquiry / Help,Resolved
+INC100273,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100274,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100275,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100276,2 - High,Software install request,Inquiry / Help,Resolved
+INC100277,2 - High,Phone not working,Inquiry / Help,Resolved
+INC100278,2 - High,New user setup,Inquiry / Help,Resolved
+INC100279,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100280,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100281,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100282,3 - Moderate,Other issue 4,Inquiry / Help,Resolved
+INC100283,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC100284,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC100285,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100286,4 - Low,New user setup,Inquiry / Help,Resolved
+INC100287,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100288,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC100289,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC100290,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100291,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100292,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100293,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100294,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100295,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100296,4 - Low,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC100297,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100298,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100299,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100300,2 - High,Password reset,Inquiry / Help,Resolved
+INC100301,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100302,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100303,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100304,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100305,4 - Low,Software install request,Inquiry / Help,Resolved
+INC100306,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100307,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100308,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100309,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100310,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100311,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100312,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100313,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100314,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100315,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100316,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100317,2 - High,Other issue 41,Inquiry / Help,Resolved
+INC100318,2 - High,Monitor not displaying,Inquiry / Help,Resolved
+INC100319,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100320,2 - High,Password reset,Inquiry / Help,Resolved
+INC100321,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100322,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100323,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100324,2 - High,Password reset,Inquiry / Help,Resolved
+INC100325,2 - High,Password reset,Inquiry / Help,Resolved
+INC100326,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC100327,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100328,3 - Moderate,Other issue 26,Inquiry / Help,Resolved
+INC100329,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100330,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100331,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100332,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100333,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100334,4 - Low,Other issue 2,Inquiry / Help,Resolved
+INC100335,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100336,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC100337,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100338,3 - Moderate,Keyboard not working,Inquiry / Help,Resolved
+INC100339,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC100340,3 - Moderate,Other issue 56,Inquiry / Help,Resolved
+INC100341,3 - Moderate,Other issue 4,Inquiry / Help,Resolved
+INC100342,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100343,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100344,4 - Low,Label printer offline,Inquiry / Help,Resolved
+INC100345,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100346,4 - Low,Monitor not displaying,Inquiry / Help,Resolved
+INC100347,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100348,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100349,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100350,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100351,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100352,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100353,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100354,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC100355,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100356,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100357,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100358,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100359,3 - Moderate,Teams audio issue,Inquiry / Help,Resolved
+INC100360,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100361,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100362,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100363,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100364,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100365,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100366,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100367,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100368,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100369,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100370,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC100371,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100372,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100373,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100374,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100375,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100376,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100377,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC100378,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100379,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100380,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100381,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100382,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100383,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100384,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC100385,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100386,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100387,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100388,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100389,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100390,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100391,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100392,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100393,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC100394,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100395,2 - High,Record locked by another user,Inquiry / Help,Resolved
+INC100396,3 - Moderate,Other issue 16,Inquiry / Help,Resolved
+INC100397,3 - Moderate,Other issue 17,Inquiry / Help,Resolved
+INC100398,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100399,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100400,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100401,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC100402,2 - High,Password reset,Inquiry / Help,Resolved
+INC100403,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100404,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100405,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100406,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100407,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100408,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC100409,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100410,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100411,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC100412,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100413,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100414,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC100415,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100416,2 - High,Record locked by another user,Inquiry / Help,Resolved
+INC100417,4 - Low,New user setup,Inquiry / Help,Resolved
+INC100418,2 - High,Password reset,Inquiry / Help,Resolved
+INC100419,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100420,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100421,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100422,4 - Low,New user setup,Inquiry / Help,Resolved
+INC100423,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100424,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100425,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100426,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100427,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100428,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100429,2 - High,Other issue 42,Inquiry / Help,Resolved
+INC100430,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100431,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100432,3 - Moderate,Other issue 33,Inquiry / Help,Resolved
+INC100433,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100434,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100435,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100436,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC100437,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100438,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100439,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100440,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100441,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100442,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100443,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC100444,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100445,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100446,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100447,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100448,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100449,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100450,2 - High,Password reset,Inquiry / Help,Resolved
+INC100451,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100452,3 - Moderate,Shared drive access,Inquiry / Help,Resolved
+INC100453,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100454,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100455,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC100456,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC100457,3 - Moderate,Label printer offline,Inquiry / Help,Resolved
+INC100458,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100459,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100460,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100461,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100462,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100463,3 - Moderate,Phone not working,Inquiry / Help,Resolved
+INC100464,2 - High,Shared drive access,Inquiry / Help,Resolved
+INC100465,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC100466,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100467,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100468,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100469,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100470,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100471,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC100472,3 - Moderate,Other issue 25,Inquiry / Help,Resolved
+INC100473,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100474,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100475,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100476,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100477,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100478,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100479,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100480,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100481,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC100482,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100483,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100484,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100485,2 - High,Password reset,Inquiry / Help,Resolved
+INC100486,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100487,2 - High,Other issue 44,Inquiry / Help,Resolved
+INC100488,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100489,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100490,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100491,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100492,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100493,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100494,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100495,2 - High,Phone not working,Inquiry / Help,Resolved
+INC100496,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100497,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100498,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100499,3 - Moderate,Other issue 19,Inquiry / Help,Resolved
+INC100500,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100501,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100502,3 - Moderate,Other issue 43,Inquiry / Help,Resolved
+INC100503,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100504,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100505,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100506,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100507,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100508,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100509,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100510,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100511,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100512,3 - Moderate,Other issue 57,Inquiry / Help,Resolved
+INC100513,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100514,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100515,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC100516,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100517,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100518,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100519,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100520,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100521,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100522,2 - High,Record locked by another user,Inquiry / Help,Resolved
+INC100523,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100524,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100525,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100526,2 - High,Software install request,Inquiry / Help,Resolved
+INC100527,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100528,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100529,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100530,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100531,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100532,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100533,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100534,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100535,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100536,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100537,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100538,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100539,4 - Low,Record locked by another user,Inquiry / Help,Resolved
+INC100540,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100541,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100542,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100543,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100544,3 - Moderate,UPS is alarming,Inquiry / Help,Resolved
+INC100545,4 - Low,New user setup,Inquiry / Help,Resolved
+INC100546,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100547,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100548,4 - Low,Other issue 14,Inquiry / Help,Resolved
+INC100549,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC100550,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100551,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100552,3 - Moderate,Other issue 44,Inquiry / Help,Resolved
+INC100553,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100554,2 - High,Shared drive access,Inquiry / Help,Resolved
+INC100555,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100556,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100557,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100558,2 - High,Other issue 12,Inquiry / Help,Resolved
+INC100559,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100560,4 - Low,Other issue 47,Inquiry / Help,Resolved
+INC100561,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100562,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100563,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100564,2 - High,Password reset,Inquiry / Help,Resolved
+INC100565,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100566,2 - High,Software install request,Inquiry / Help,Resolved
+INC100567,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100568,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100569,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100570,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC100571,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100572,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100573,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100574,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC100575,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100576,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100577,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100578,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100579,2 - High,Other issue 9,Inquiry / Help,Resolved
+INC100580,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100581,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100582,4 - Low,Other issue 58,Inquiry / Help,Resolved
+INC100583,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100584,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100585,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100586,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100587,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100588,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100589,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100590,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100591,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100592,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100593,2 - High,Password reset,Inquiry / Help,Resolved
+INC100594,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100595,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100596,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100597,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100598,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100599,4 - Low,Other issue 42,Inquiry / Help,Resolved
+INC100600,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100601,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100602,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100603,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100604,2 - High,Software install request,Inquiry / Help,Resolved
+INC100605,4 - Low,Monitor not displaying,Inquiry / Help,Resolved
+INC100606,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100607,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100608,2 - High,Password reset,Inquiry / Help,Resolved
+INC100609,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100610,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100611,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100612,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100613,2 - High,Keyboard not working,Inquiry / Help,Resolved
+INC100614,2 - High,Other issue 7,Inquiry / Help,Resolved
+INC100615,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100616,4 - Low,Other issue 41,Inquiry / Help,Resolved
+INC100617,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100618,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100619,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC100620,3 - Moderate,Shared drive access,Inquiry / Help,Resolved
+INC100621,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100622,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100623,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100624,2 - High,Other issue 49,Inquiry / Help,Resolved
+INC100625,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100626,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100627,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100628,3 - Moderate,Teams audio issue,Inquiry / Help,Resolved
+INC100629,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100630,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100631,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100632,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100633,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100634,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC100635,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC100636,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100637,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100638,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100639,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC100640,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100641,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100642,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100643,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100644,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100645,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100646,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100647,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC100648,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100649,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100650,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100651,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100652,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100653,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100654,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100655,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100656,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100657,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100658,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100659,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100660,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100661,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100662,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100663,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100664,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100665,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100666,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100667,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC100668,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100669,3 - Moderate,Other issue 54,Inquiry / Help,Resolved
+INC100670,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100671,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100672,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100673,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100674,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100675,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100676,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100677,3 - Moderate,Other issue 25,Inquiry / Help,Resolved
+INC100678,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100679,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100680,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100681,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100682,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100683,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100684,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100685,2 - High,Other issue 46,Inquiry / Help,Resolved
+INC100686,3 - Moderate,Other issue 28,Inquiry / Help,Resolved
+INC100687,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100688,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100689,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100690,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100691,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100692,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100693,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100694,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100695,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100696,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100697,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100698,3 - Moderate,Other issue 8,Inquiry / Help,Resolved
+INC100699,2 - High,Other issue 1,Inquiry / Help,Resolved
+INC100700,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100701,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100702,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100703,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100704,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100705,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100706,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100707,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100708,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100709,2 - High,Other issue 32,Inquiry / Help,Resolved
+INC100710,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100711,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100712,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100713,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100714,2 - High,Password reset,Inquiry / Help,Resolved
+INC100715,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100716,2 - High,Password reset,Inquiry / Help,Resolved
+INC100717,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100718,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100719,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100720,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100721,4 - Low,Label printer offline,Inquiry / Help,Resolved
+INC100722,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100723,2 - High,Password reset,Inquiry / Help,Resolved
+INC100724,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100725,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100726,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100727,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100728,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100729,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100730,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100731,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100732,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100733,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100734,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100735,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100736,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100737,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100738,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100739,2 - High,Monitor not displaying,Inquiry / Help,Resolved
+INC100740,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC100741,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100742,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100743,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100744,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC100745,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100746,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC100747,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100748,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100749,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100750,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100751,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC100752,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100753,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC100754,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100755,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100756,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100757,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100758,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC100759,2 - High,Password reset,Inquiry / Help,Resolved
+INC100760,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC100761,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100762,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100763,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100764,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100765,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100766,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC100767,3 - Moderate,Other issue 12,Inquiry / Help,Resolved
+INC100768,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100769,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100770,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100771,3 - Moderate,Other issue 29,Inquiry / Help,Resolved
+INC100772,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100773,2 - High,Other issue 16,Inquiry / Help,Resolved
+INC100774,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100775,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100776,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100777,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100778,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100779,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100780,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100781,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC100782,2 - High,Password reset,Inquiry / Help,Resolved
+INC100783,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100784,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100785,2 - High,Phone not working,Inquiry / Help,Resolved
+INC100786,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC100787,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100788,2 - High,Password reset,Inquiry / Help,Resolved
+INC100789,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100790,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100791,2 - High,Password reset,Inquiry / Help,Resolved
+INC100792,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100793,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100794,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100795,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100796,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100797,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100798,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100799,2 - High,Password reset,Inquiry / Help,Resolved
+INC100800,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100801,3 - Moderate,Shared drive access,Inquiry / Help,Resolved
+INC100802,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100803,2 - High,Software install request,Inquiry / Help,Resolved
+INC100804,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC100805,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100806,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100807,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100808,2 - High,Monitor not displaying,Inquiry / Help,Resolved
+INC100809,4 - Low,Label printer offline,Inquiry / Help,Resolved
+INC100810,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC100811,2 - High,Other issue 56,Inquiry / Help,Resolved
+INC100812,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100813,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC100814,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100815,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC100816,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100817,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100818,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100819,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100820,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100821,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100822,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC100823,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100824,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100825,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100826,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100827,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100828,3 - Moderate,Other issue 45,Inquiry / Help,Resolved
+INC100829,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100830,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100831,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100832,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100833,2 - High,Password reset,Inquiry / Help,Resolved
+INC100834,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100835,2 - High,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC100836,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100837,2 - High,Password reset,Inquiry / Help,Resolved
+INC100838,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100839,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100840,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100841,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100842,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC100843,3 - Moderate,Other issue 9,Inquiry / Help,Resolved
+INC100844,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100845,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100846,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100847,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC100848,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100849,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100850,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC100851,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100852,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100853,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100854,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100855,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100856,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100857,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100858,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100859,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100860,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100861,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100862,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100863,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100864,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100865,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100866,2 - High,Password reset,Inquiry / Help,Resolved
+INC100867,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100868,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100869,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100870,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC100871,4 - Low,New user setup,Inquiry / Help,Resolved
+INC100872,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100873,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100874,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100875,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100876,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC100877,2 - High,Label printer offline,Inquiry / Help,Resolved
+INC100878,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100879,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100880,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC100881,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100882,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC100883,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100884,3 - Moderate,Other issue 59,Inquiry / Help,Resolved
+INC100885,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100886,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100887,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100888,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100889,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100890,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC100891,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100892,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100893,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100894,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100895,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100896,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100897,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100898,3 - Moderate,Shared drive access,Inquiry / Help,Resolved
+INC100899,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC100900,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100901,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100902,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100903,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100904,2 - High,New user setup,Inquiry / Help,Resolved
+INC100905,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100906,2 - High,Password reset,Inquiry / Help,Resolved
+INC100907,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100908,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100909,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100910,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100911,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100912,4 - Low,Other issue 16,Inquiry / Help,Resolved
+INC100913,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100914,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100915,3 - Moderate,Other issue 54,Inquiry / Help,Resolved
+INC100916,2 - High,Password reset,Inquiry / Help,Resolved
+INC100917,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100918,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC100919,4 - Low,Other issue 1,Inquiry / Help,Resolved
+INC100920,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC100921,4 - Low,Other issue 18,Inquiry / Help,Resolved
+INC100922,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100923,4 - Low,Other issue 40,Inquiry / Help,Resolved
+INC100924,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100925,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC100926,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100927,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100928,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100929,2 - High,Keyboard not working,Inquiry / Help,Resolved
+INC100930,2 - High,Password reset,Inquiry / Help,Resolved
+INC100931,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC100932,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC100933,4 - Low,Other issue 5,Inquiry / Help,Resolved
+INC100934,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100935,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100936,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100937,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100938,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100939,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100940,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC100941,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100942,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100943,2 - High,Low disk space,Inquiry / Help,Resolved
+INC100944,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100945,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100946,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100947,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC100948,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC100949,3 - Moderate,Teams audio issue,Inquiry / Help,Resolved
+INC100950,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100951,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100952,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100953,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC100954,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC100955,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100956,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC100957,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100958,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC100959,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC100960,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC100961,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100962,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC100963,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100964,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100965,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100966,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC100967,2 - High,Monitor not displaying,Inquiry / Help,Resolved
+INC100968,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100969,2 - High,MFA not working,Inquiry / Help,Resolved
+INC100970,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC100971,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100972,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC100973,2 - High,Password reset,Inquiry / Help,Resolved
+INC100974,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100975,4 - Low,Password reset,Inquiry / Help,Resolved
+INC100976,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100977,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100978,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC100979,3 - Moderate,Other issue 44,Inquiry / Help,Resolved
+INC100980,3 - Moderate,Other issue 47,Inquiry / Help,Resolved
+INC100981,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100982,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100983,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC100984,2 - High,Other issue 60,Inquiry / Help,Resolved
+INC100985,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100986,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC100987,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100988,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC100989,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC100990,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100991,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC100992,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC100993,2 - High,AD account locked,Inquiry / Help,Resolved
+INC100994,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC100995,2 - High,Password reset,Inquiry / Help,Resolved
+INC100996,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC100997,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC100998,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC100999,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101000,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101001,2 - High,Password reset,Inquiry / Help,Resolved
+INC101002,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101003,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101004,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101005,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101006,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101007,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101008,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101009,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101010,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101011,2 - High,Password reset,Inquiry / Help,Resolved
+INC101012,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101013,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101014,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101015,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101016,2 - High,Shared drive access,Inquiry / Help,Resolved
+INC101017,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101018,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101019,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC101020,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101021,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC101022,2 - High,Other issue 16,Inquiry / Help,Resolved
+INC101023,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101024,2 - High,New user setup,Inquiry / Help,Resolved
+INC101025,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101026,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC101027,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101028,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101029,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101030,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101031,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC101032,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC101033,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101034,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101035,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101036,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101037,2 - High,Other issue 8,Inquiry / Help,Resolved
+INC101038,4 - Low,Other issue 25,Inquiry / Help,Resolved
+INC101039,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101040,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101041,2 - High,Password reset,Inquiry / Help,Resolved
+INC101042,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101043,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101044,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101045,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101046,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101047,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101048,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101049,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101050,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101051,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101052,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101053,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101054,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101055,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101056,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101057,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101058,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101059,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101060,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101061,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101062,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101063,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101064,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101065,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101066,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101067,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC101068,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101069,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101070,2 - High,Monitor not displaying,Inquiry / Help,Resolved
+INC101071,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101072,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101073,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101074,3 - Moderate,Other issue 30,Inquiry / Help,Resolved
+INC101075,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101076,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101077,2 - High,Record locked by another user,Inquiry / Help,Resolved
+INC101078,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101079,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101080,3 - Moderate,Other issue 12,Inquiry / Help,Resolved
+INC101081,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101082,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101083,3 - Moderate,Phone not working,Inquiry / Help,Resolved
+INC101084,4 - Low,Monitor not displaying,Inquiry / Help,Resolved
+INC101085,3 - Moderate,Other issue 34,Inquiry / Help,Resolved
+INC101086,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC101087,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101088,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101089,2 - High,Password reset,Inquiry / Help,Resolved
+INC101090,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101091,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101092,2 - High,Password reset,Inquiry / Help,Resolved
+INC101093,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101094,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101095,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101096,4 - Low,Record locked by another user,Inquiry / Help,Resolved
+INC101097,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101098,4 - Low,Record locked by another user,Inquiry / Help,Resolved
+INC101099,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101100,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC101101,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101102,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101103,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101104,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101105,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101106,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101107,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101108,4 - Low,Other issue 49,Inquiry / Help,Resolved
+INC101109,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101110,3 - Moderate,Shared drive access,Inquiry / Help,Resolved
+INC101111,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC101112,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC101113,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC101114,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101115,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101116,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101117,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101118,3 - Moderate,Other issue 46,Inquiry / Help,Resolved
+INC101119,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101120,2 - High,New user setup,Inquiry / Help,Resolved
+INC101121,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101122,2 - High,Other issue 22,Inquiry / Help,Resolved
+INC101123,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101124,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101125,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101126,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101127,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101128,2 - High,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101129,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101130,2 - High,Password reset,Inquiry / Help,Resolved
+INC101131,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101132,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101133,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101134,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101135,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101136,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101137,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101138,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101139,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101140,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101141,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101142,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101143,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101144,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101145,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101146,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101147,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101148,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101149,4 - Low,Software install request,Inquiry / Help,Resolved
+INC101150,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101151,2 - High,Other issue 54,Inquiry / Help,Resolved
+INC101152,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101153,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101154,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101155,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101156,3 - Moderate,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101157,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101158,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101159,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101160,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101161,3 - Moderate,Teams audio issue,Inquiry / Help,Resolved
+INC101162,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101163,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101164,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101165,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101166,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101167,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101168,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101169,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101170,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101171,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101172,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101173,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101174,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101175,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101176,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101177,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101178,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101179,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101180,4 - Low,Other issue 24,Inquiry / Help,Resolved
+INC101181,2 - High,Monitor not displaying,Inquiry / Help,Resolved
+INC101182,3 - Moderate,Keyboard not working,Inquiry / Help,Resolved
+INC101183,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101184,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101185,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101186,2 - High,Other issue 36,Inquiry / Help,Resolved
+INC101187,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101188,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101189,2 - High,New user setup,Inquiry / Help,Resolved
+INC101190,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101191,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101192,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101193,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101194,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC101195,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101196,3 - Moderate,Other issue 1,Inquiry / Help,Resolved
+INC101197,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101198,2 - High,Password reset,Inquiry / Help,Resolved
+INC101199,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101200,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101201,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101202,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101203,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101204,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC101205,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101206,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101207,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101208,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101209,2 - High,Software install request,Inquiry / Help,Resolved
+INC101210,2 - High,Other issue 51,Inquiry / Help,Resolved
+INC101211,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101212,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC101213,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101214,2 - High,Password reset,Inquiry / Help,Resolved
+INC101215,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101216,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC101217,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC101218,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC101219,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101220,2 - High,Password reset,Inquiry / Help,Resolved
+INC101221,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101222,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101223,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101224,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101225,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101226,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101227,2 - High,Password reset,Inquiry / Help,Resolved
+INC101228,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101229,2 - High,Other issue 22,Inquiry / Help,Resolved
+INC101230,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101231,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101232,2 - High,Password reset,Inquiry / Help,Resolved
+INC101233,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101234,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101235,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101236,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101237,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101238,2 - High,Phone not working,Inquiry / Help,Resolved
+INC101239,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101240,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101241,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101242,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101243,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101244,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC101245,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101246,4 - Low,Monitor not displaying,Inquiry / Help,Resolved
+INC101247,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101248,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101249,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC101250,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101251,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101252,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101253,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101254,2 - High,Shared drive access,Inquiry / Help,Resolved
+INC101255,2 - High,Other issue 47,Inquiry / Help,Resolved
+INC101256,3 - Moderate,Label printer offline,Inquiry / Help,Resolved
+INC101257,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101258,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC101259,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101260,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101261,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101262,3 - Moderate,Label printer offline,Inquiry / Help,Resolved
+INC101263,4 - Low,Record locked by another user,Inquiry / Help,Resolved
+INC101264,4 - Low,Other issue 28,Inquiry / Help,Resolved
+INC101265,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101266,2 - High,Password reset,Inquiry / Help,Resolved
+INC101267,2 - High,Software install request,Inquiry / Help,Resolved
+INC101268,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101269,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101270,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101271,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101272,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101273,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101274,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101275,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101276,2 - High,Password reset,Inquiry / Help,Resolved
+INC101277,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC101278,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101279,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101280,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101281,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101282,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101283,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101284,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101285,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101286,3 - Moderate,Record locked by another user,Inquiry / Help,Resolved
+INC101287,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101288,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101289,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101290,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101291,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101292,4 - Low,Other issue 16,Inquiry / Help,Resolved
+INC101293,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101294,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101295,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101296,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101297,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101298,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101299,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101300,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101301,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101302,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101303,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101304,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101305,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101306,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101307,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101308,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101309,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101310,2 - High,Password reset,Inquiry / Help,Resolved
+INC101311,2 - High,Shared drive access,Inquiry / Help,Resolved
+INC101312,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC101313,3 - Moderate,Other issue 43,Inquiry / Help,Resolved
+INC101314,2 - High,Password reset,Inquiry / Help,Resolved
+INC101315,3 - Moderate,Other issue 51,Inquiry / Help,Resolved
+INC101316,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101317,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101318,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101319,3 - Moderate,Other issue 2,Inquiry / Help,Resolved
+INC101320,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101321,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101322,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101323,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101324,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101325,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC101326,2 - High,Software install request,Inquiry / Help,Resolved
+INC101327,3 - Moderate,Other issue 6,Inquiry / Help,Resolved
+INC101328,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101329,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC101330,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101331,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101332,2 - High,Other issue 41,Inquiry / Help,Resolved
+INC101333,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101334,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101335,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101336,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101337,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101338,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101339,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101340,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101341,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101342,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101343,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101344,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101345,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101346,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101347,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101348,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101349,3 - Moderate,Other issue 58,Inquiry / Help,Resolved
+INC101350,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101351,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101352,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101353,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101354,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101355,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101356,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101357,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101358,2 - High,Other issue 17,Inquiry / Help,Resolved
+INC101359,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101360,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101361,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101362,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC101363,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101364,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101365,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101366,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101367,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101368,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101369,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101370,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101371,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101372,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101373,2 - High,Other issue 27,Inquiry / Help,Resolved
+INC101374,3 - Moderate,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101375,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101376,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101377,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101378,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101379,2 - High,Phone not working,Inquiry / Help,Resolved
+INC101380,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101381,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101382,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101383,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC101384,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101385,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101386,4 - Low,Record locked by another user,Inquiry / Help,Resolved
+INC101387,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101388,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101389,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101390,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101391,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101392,2 - High,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101393,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101394,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101395,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101396,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101397,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101398,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101399,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101400,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101401,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101402,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101403,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101404,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101405,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101406,4 - Low,Monitor not displaying,Inquiry / Help,Resolved
+INC101407,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101408,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC101409,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101410,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101411,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101412,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101413,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101414,2 - High,Other issue 59,Inquiry / Help,Resolved
+INC101415,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101416,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101417,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC101418,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101419,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101420,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101421,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101422,3 - Moderate,Other issue 9,Inquiry / Help,Resolved
+INC101423,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101424,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101425,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101426,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101427,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101428,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101429,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101430,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101431,4 - Low,Software install request,Inquiry / Help,Resolved
+INC101432,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101433,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101434,2 - High,Software install request,Inquiry / Help,Resolved
+INC101435,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101436,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101437,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101438,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC101439,2 - High,Password reset,Inquiry / Help,Resolved
+INC101440,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101441,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101442,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101443,4 - Low,Software install request,Inquiry / Help,Resolved
+INC101444,2 - High,Shared drive access,Inquiry / Help,Resolved
+INC101445,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101446,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101447,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101448,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101449,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101450,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101451,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101452,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101453,3 - Moderate,Shared drive access,Inquiry / Help,Resolved
+INC101454,3 - Moderate,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101455,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101456,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101457,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101458,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101459,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101460,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101461,3 - Moderate,Keyboard not working,Inquiry / Help,Resolved
+INC101462,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101463,3 - Moderate,Other issue 12,Inquiry / Help,Resolved
+INC101464,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101465,3 - Moderate,Other issue 3,Inquiry / Help,Resolved
+INC101466,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101467,4 - Low,Other issue 2,Inquiry / Help,Resolved
+INC101468,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC101469,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101470,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101471,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101472,2 - High,New user setup,Inquiry / Help,Resolved
+INC101473,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101474,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101475,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101476,2 - High,Other issue 58,Inquiry / Help,Resolved
+INC101477,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101478,3 - Moderate,Phone not working,Inquiry / Help,Resolved
+INC101479,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101480,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101481,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101482,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101483,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC101484,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101485,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101486,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101487,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101488,2 - High,Other issue 5,Inquiry / Help,Resolved
+INC101489,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101490,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101491,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC101492,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101493,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101494,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101495,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101496,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101497,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101498,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101499,4 - Low,Phone not working,Inquiry / Help,Resolved
+INC101500,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101501,2 - High,Password reset,Inquiry / Help,Resolved
+INC101502,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101503,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101504,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101505,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101506,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101507,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101508,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101509,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101510,2 - High,Other issue 16,Inquiry / Help,Resolved
+INC101511,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101512,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101513,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101514,3 - Moderate,Other issue 25,Inquiry / Help,Resolved
+INC101515,3 - Moderate,Other issue 60,Inquiry / Help,Resolved
+INC101516,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101517,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101518,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101519,2 - High,Password reset,Inquiry / Help,Resolved
+INC101520,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101521,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101522,4 - Low,Other issue 23,Inquiry / Help,Resolved
+INC101523,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101524,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101525,4 - Low,Record locked by another user,Inquiry / Help,Resolved
+INC101526,3 - Moderate,Shared drive access,Inquiry / Help,Resolved
+INC101527,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC101528,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101529,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101530,2 - High,Password reset,Inquiry / Help,Resolved
+INC101531,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101532,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101533,2 - High,New user setup,Inquiry / Help,Resolved
+INC101534,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC101535,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101536,2 - High,Record locked by another user,Inquiry / Help,Resolved
+INC101537,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101538,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101539,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101540,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101541,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101542,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101543,4 - Low,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101544,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101545,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101546,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101547,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101548,2 - High,Teams audio issue,Inquiry / Help,Resolved
+INC101549,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101550,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC101551,2 - High,Other issue 22,Inquiry / Help,Resolved
+INC101552,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101553,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101554,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101555,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101556,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101557,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC101558,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101559,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101560,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101561,3 - Moderate,Other issue 43,Inquiry / Help,Resolved
+INC101562,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101563,2 - High,Password reset,Inquiry / Help,Resolved
+INC101564,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101565,4 - Low,Monitor not displaying,Inquiry / Help,Resolved
+INC101566,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101567,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101568,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101569,2 - High,Monitor not displaying,Inquiry / Help,Resolved
+INC101570,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101571,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101572,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101573,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101574,4 - Low,Other issue 4,Inquiry / Help,Resolved
+INC101575,2 - High,Password reset,Inquiry / Help,Resolved
+INC101576,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101577,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101578,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101579,2 - High,Password reset,Inquiry / Help,Resolved
+INC101580,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101581,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101582,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101583,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101584,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101585,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101586,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101587,4 - Low,Software install request,Inquiry / Help,Resolved
+INC101588,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101589,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101590,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101591,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC101592,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101593,2 - High,Other issue 21,Inquiry / Help,Resolved
+INC101594,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101595,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101596,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101597,3 - Moderate,Other issue 30,Inquiry / Help,Resolved
+INC101598,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC101599,2 - High,Other issue 47,Inquiry / Help,Resolved
+INC101600,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101601,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101602,4 - Low,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101603,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101604,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101605,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101606,2 - High,Password reset,Inquiry / Help,Resolved
+INC101607,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101608,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101609,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101610,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101611,2 - High,Other issue 49,Inquiry / Help,Resolved
+INC101612,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101613,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101614,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101615,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101616,2 - High,Other issue 27,Inquiry / Help,Resolved
+INC101617,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC101618,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101619,2 - High,Other issue 55,Inquiry / Help,Resolved
+INC101620,2 - High,Password reset,Inquiry / Help,Resolved
+INC101621,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101622,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101623,4 - Low,Other issue 28,Inquiry / Help,Resolved
+INC101624,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101625,3 - Moderate,Other issue 49,Inquiry / Help,Resolved
+INC101626,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101627,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101628,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101629,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101630,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101631,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101632,4 - Low,Software install request,Inquiry / Help,Resolved
+INC101633,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101634,2 - High,Password reset,Inquiry / Help,Resolved
+INC101635,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101636,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101637,3 - Moderate,Other issue 10,Inquiry / Help,Resolved
+INC101638,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101639,3 - Moderate,Other issue 52,Inquiry / Help,Resolved
+INC101640,3 - Moderate,Record locked by another user,Inquiry / Help,Resolved
+INC101641,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101642,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101643,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101644,2 - High,Phone not working,Inquiry / Help,Resolved
+INC101645,2 - High,Password reset,Inquiry / Help,Resolved
+INC101646,2 - High,New user setup,Inquiry / Help,Resolved
+INC101647,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101648,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101649,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101650,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC101651,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101652,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101653,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101654,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC101655,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101656,3 - Moderate,Other issue 3,Inquiry / Help,Resolved
+INC101657,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101658,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101659,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101660,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101661,2 - High,Password reset,Inquiry / Help,Resolved
+INC101662,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101663,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC101664,4 - Low,Other issue 4,Inquiry / Help,Resolved
+INC101665,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101666,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101667,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC101668,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101669,2 - High,Record locked by another user,Inquiry / Help,Resolved
+INC101670,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101671,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC101672,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101673,3 - Moderate,Other issue 36,Inquiry / Help,Resolved
+INC101674,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101675,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101676,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101677,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC101678,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101679,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101680,3 - Moderate,Other issue 36,Inquiry / Help,Resolved
+INC101681,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101682,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101683,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101684,2 - High,Other issue 16,Inquiry / Help,Resolved
+INC101685,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101686,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101687,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101688,4 - Low,Other issue 22,Inquiry / Help,Resolved
+INC101689,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC101690,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101691,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101692,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101693,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101694,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101695,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101696,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC101697,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101698,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101699,2 - High,UPS is alarming,Inquiry / Help,Resolved
+INC101700,2 - High,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101701,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101702,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101703,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101704,4 - Low,Record locked by another user,Inquiry / Help,Resolved
+INC101705,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101706,2 - High,Other issue 32,Inquiry / Help,Resolved
+INC101707,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101708,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101709,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101710,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101711,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101712,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101713,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101714,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101715,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101716,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101717,2 - High,Other issue 25,Inquiry / Help,Resolved
+INC101718,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101719,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101720,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101721,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101722,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101723,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101724,4 - Low,Other issue 29,Inquiry / Help,Resolved
+INC101725,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101726,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101727,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101728,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101729,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101730,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101731,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101732,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101733,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101734,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101735,4 - Low,Other issue 4,Inquiry / Help,Resolved
+INC101736,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC101737,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101738,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC101739,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC101740,2 - High,New user setup,Inquiry / Help,Resolved
+INC101741,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101742,2 - High,Password reset,Inquiry / Help,Resolved
+INC101743,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101744,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101745,4 - Low,Other issue 58,Inquiry / Help,Resolved
+INC101746,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101747,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101748,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101749,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101750,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101751,2 - High,Other issue 59,Inquiry / Help,Resolved
+INC101752,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101753,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101754,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101755,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101756,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101757,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101758,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101759,2 - High,Password reset,Inquiry / Help,Resolved
+INC101760,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101761,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC101762,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101763,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101764,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101765,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101766,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101767,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101768,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101769,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101770,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101771,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101772,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101773,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC101774,4 - Low,Other issue 42,Inquiry / Help,Resolved
+INC101775,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101776,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101777,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101778,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101779,3 - Moderate,Software install request,Inquiry / Help,Resolved
+INC101780,2 - High,Monitor not displaying,Inquiry / Help,Resolved
+INC101781,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC101782,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101783,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101784,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101785,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101786,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101787,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101788,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101789,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101790,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101791,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101792,2 - High,Other issue 50,Inquiry / Help,Resolved
+INC101793,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101794,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101795,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101796,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101797,4 - Low,Other issue 8,Inquiry / Help,Resolved
+INC101798,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101799,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101800,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101801,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101802,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101803,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101804,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101805,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101806,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101807,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101808,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101809,3 - Moderate,Badge reader not working,Inquiry / Help,Resolved
+INC101810,2 - High,Software install request,Inquiry / Help,Resolved
+INC101811,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101812,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101813,2 - High,Password reset,Inquiry / Help,Resolved
+INC101814,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101815,2 - High,Other issue 45,Inquiry / Help,Resolved
+INC101816,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101817,2 - High,Other issue 14,Inquiry / Help,Resolved
+INC101818,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC101819,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101820,2 - High,Record locked by another user,Inquiry / Help,Resolved
+INC101821,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101822,2 - High,Other issue 50,Inquiry / Help,Resolved
+INC101823,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101824,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101825,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101826,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101827,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101828,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101829,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101830,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101831,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101832,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101833,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101834,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101835,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101836,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101837,3 - Moderate,Phone not working,Inquiry / Help,Resolved
+INC101838,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101839,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101840,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101841,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101842,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101843,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101844,3 - Moderate,EHR not responding,Inquiry / Help,Resolved
+INC101845,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101846,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101847,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101848,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101849,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101850,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101851,4 - Low,Teams audio issue,Inquiry / Help,Resolved
+INC101852,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101853,4 - Low,Software install request,Inquiry / Help,Resolved
+INC101854,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101855,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101856,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101857,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101858,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101859,2 - High,Label printer offline,Inquiry / Help,Resolved
+INC101860,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101861,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101862,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101863,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101864,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101865,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101866,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101867,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101868,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101869,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101870,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101871,3 - Moderate,Other issue 45,Inquiry / Help,Resolved
+INC101872,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101873,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101874,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101875,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101876,3 - Moderate,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101877,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101878,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101879,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC101880,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101881,4 - Low,EHR not responding,Inquiry / Help,Resolved
+INC101882,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101883,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101884,2 - High,Software install request,Inquiry / Help,Resolved
+INC101885,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101886,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101887,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101888,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101889,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101890,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101891,4 - Low,VPN not connecting,Inquiry / Help,Resolved
+INC101892,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101893,4 - Low,Email not syncing,Inquiry / Help,Resolved
+INC101894,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101895,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101896,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101897,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101898,2 - High,Other issue 35,Inquiry / Help,Resolved
+INC101899,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101900,3 - Moderate,Other issue 45,Inquiry / Help,Resolved
+INC101901,3 - Moderate,Other issue 33,Inquiry / Help,Resolved
+INC101902,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101903,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101904,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101905,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101906,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101907,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101908,2 - High,Badge reader not working,Inquiry / Help,Resolved
+INC101909,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101910,2 - High,AD account locked,Inquiry / Help,Resolved
+INC101911,2 - High,Password reset,Inquiry / Help,Resolved
+INC101912,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101913,4 - Low,Software install request,Inquiry / Help,Resolved
+INC101914,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101915,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101916,2 - High,VPN not connecting,Inquiry / Help,Resolved
+INC101917,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC101918,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101919,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101920,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC101921,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101922,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101923,2 - High,Label printer offline,Inquiry / Help,Resolved
+INC101924,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101925,2 - High,Device offline for 30 days,Inquiry / Help,Resolved
+INC101926,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
+INC101927,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC101928,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101929,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101930,4 - Low,Shared drive access,Inquiry / Help,Resolved
+INC101931,3 - Moderate,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101932,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101933,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101934,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101935,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101936,2 - High,Printer not printing,Inquiry / Help,Resolved
+INC101937,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101938,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101939,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC101940,2 - High,Password reset,Inquiry / Help,Resolved
+INC101941,3 - Moderate,EHR not opening,Inquiry / Help,Resolved
+INC101942,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101943,4 - Low,Password reset,Inquiry / Help,Resolved
+INC101944,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101945,3 - Moderate,Device offline for 30 days,Inquiry / Help,Resolved
+INC101946,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101947,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101948,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101949,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101950,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101951,3 - Moderate,VPN not connecting,Inquiry / Help,Resolved
+INC101952,2 - High,Email not syncing,Inquiry / Help,Resolved
+INC101953,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101954,3 - Moderate,MFA not working,Inquiry / Help,Resolved
+INC101955,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101956,2 - High,Scanner not working in EHR,Inquiry / Help,Resolved
+INC101957,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101958,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC101959,2 - High,MFA not working,Inquiry / Help,Resolved
+INC101960,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101961,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101962,2 - High,Low disk space,Inquiry / Help,Resolved
+INC101963,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101964,2 - High,Password reset,Inquiry / Help,Resolved
+INC101965,2 - High,EHR not responding,Inquiry / Help,Resolved
+INC101966,4 - Low,UPS is alarming,Inquiry / Help,Resolved
+INC101967,3 - Moderate,New user setup,Inquiry / Help,Resolved
+INC101968,3 - Moderate,Monitor not displaying,Inquiry / Help,Resolved
+INC101969,3 - Moderate,Password reset,Inquiry / Help,Resolved
+INC101970,2 - High,Other issue 49,Inquiry / Help,Resolved
+INC101971,2 - High,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101972,2 - High,Phone not working,Inquiry / Help,Resolved
+INC101973,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101974,2 - High,Unable to log into EHR,Inquiry / Help,Resolved
+INC101975,4 - Low,AD account locked,Inquiry / Help,Resolved
+INC101976,4 - Low,Unable to log into EHR,Inquiry / Help,Resolved
+INC101977,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101978,4 - Low,Other issue 49,Inquiry / Help,Resolved
+INC101979,2 - High,Password reset,Inquiry / Help,Resolved
+INC101980,3 - Moderate,Unable to log into EHR,Inquiry / Help,Resolved
+INC101981,3 - Moderate,Wi-Fi not connecting,Inquiry / Help,Resolved
+INC101982,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101983,2 - High,Other issue 28,Inquiry / Help,Resolved
+INC101984,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101985,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101986,4 - Low,Device offline for 30 days,Inquiry / Help,Resolved
+INC101987,4 - Low,MFA not working,Inquiry / Help,Resolved
+INC101988,3 - Moderate,Other issue 59,Inquiry / Help,Resolved
+INC101989,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101990,3 - Moderate,AD account locked,Inquiry / Help,Resolved
+INC101991,2 - High,Password reset,Inquiry / Help,Resolved
+INC101992,4 - Low,New user setup,Inquiry / Help,Resolved
+INC101993,3 - Moderate,Low disk space,Inquiry / Help,Resolved
+INC101994,3 - Moderate,Printer not printing,Inquiry / Help,Resolved
+INC101995,4 - Low,Low disk space,Inquiry / Help,Resolved
+INC101996,2 - High,EHR not opening,Inquiry / Help,Resolved
+INC101997,4 - Low,Printer not printing,Inquiry / Help,Resolved
+INC101998,4 - Low,EHR not opening,Inquiry / Help,Resolved
+INC101999,4 - Low,Badge reader not working,Inquiry / Help,Resolved
+INC102000,3 - Moderate,Email not syncing,Inquiry / Help,Resolved
